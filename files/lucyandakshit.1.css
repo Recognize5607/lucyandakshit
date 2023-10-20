@@ -7274,7 +7274,7 @@ blockquote {
 .wrapper-box.hero-bg-image {
   min-height: 91vh;
   background-color: #f4f1e4;
-  background-image: url("https://lucyandakshit.com/files/IMG_0439.jpeg");
+  background-image: url("https://lucyandakshit.com/files/IMG_0439.jpg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7661,7 +7661,7 @@ blockquote {
   width: 105%;
   height: 120%;
   filter: brightness(97%) sepia(15%);
-  background-image: url("https://lucyandakshit.com/files/IMG_3604.png");
+  background-image: url("https://lucyandakshit.com/files/IMG_3604.jpg");
   background-position: 40% 40%;
   background-repeat: no-repeat;
   background-size: 170%;
@@ -7677,7 +7677,7 @@ blockquote {
 }
 
 .lodging-wrapper {
-  background-image: url("https://lucyandakshit.com/files/IMG_0475.png");
+  background-image: url("https://lucyandakshit.com/files/IMG_0475.jpg");
   background-position: 27% 27%;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -7715,7 +7715,7 @@ blockquote {
 
 .travel-wrapper {
   min-height: 105vh;
-  background-image: url("https://lucyandakshit.com/files/IMG_3742.png");
+  background-image: url("https://lucyandakshit.com/files/IMG_3742.jpg");
   background-position: 0 0;
   background-size: cover;
   border-top: 2px solid #000;
@@ -7782,7 +7782,7 @@ blockquote {
   width: 120%;
   height: 100%;
   min-height: 60vh;
-  background-image: url("https://lucyandakshit.com/files/IMG_6566.jpeg");
+  background-image: url("https://lucyandakshit.com/files/IMG_6566.jpg");
   background-position: 50% 10%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10323,7 +10323,7 @@ html.w-mod-js [data-ix="tooltip-hover"] {
 
   .wrapper-box.hero-bg-image {
     min-height: 549px;
-    background-image: url("https://lucyandakshit.com/files/IMG_0439.jpeg"), linear-gradient(#c5e5f8, #c5e5f8);
+    background-image: url("https://lucyandakshit.com/files/IMG_0439.jpg"), linear-gradient(#c5e5f8, #c5e5f8);
     background-position: 66% 116%, 0 0;
     background-repeat: no-repeat, repeat;
     background-size: 733px, auto;
@@ -11402,7 +11402,7 @@ html.w-mod-js [data-ix="tooltip-hover"] {
   .wrapper-box.hero-bg-image {
     min-height: 549px;
     background-color: #f4f1e4;
-    background-image: url("https://lucyandakshit.com/files/IMG_0439.jpeg"), linear-gradient(#c5e5f8, #c5e5f8), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: url("https://lucyandakshit.com/files/IMG_0439.jpg"), linear-gradient(#c5e5f8, #c5e5f8), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
     background-position: 42% 100%, 0 0, 0 0;
     background-repeat: no-repeat, repeat, repeat;
     background-size: 750px, auto, auto;
