@@ -2465,9 +2465,9 @@ blockquote {
 .wrapper-m.home-2nd-section {
   border-left: 2px solid #000;
   margin-top: -2px;
-  margin-right: -63px;
+  /* margin-right: -63px; */
   padding-left: 64px;
-  padding-right: 176px;
+  padding-right: 64px; 
 }
 
 .wrapper-m.cta-bottom-home {
@@ -10454,6 +10454,7 @@ html.w-mod-js [data-ix="tooltip-hover"] {
     flex-direction: column;
     align-items: center;
     display: flex;
+    padding: 6px;
   }
 
   .feature-block.flex {
